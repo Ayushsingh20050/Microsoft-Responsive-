@@ -1,0 +1,12 @@
+/* @tailwind base;
+@tailwind components;
+@tailwind utilities; */
+/* Example main.css or main.scss */
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+/* Your custom styles */
+@import 'input.css';
+
+
